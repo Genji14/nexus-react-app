@@ -6,7 +6,9 @@ export const Route = createRootRoute({
   component: () => (
     <React.Fragment>
       <Header />
-      <Outlet />
+      <div className='-translate-y-16'>
+        <Outlet />
+      </div>
     </React.Fragment>
   ),
 })

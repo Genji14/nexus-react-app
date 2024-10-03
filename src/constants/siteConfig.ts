@@ -1,5 +1,5 @@
 export const siteHeader = {
-  name: "Nexus App",
+  name: "NexusChain",
   description:
     "Beautifully designed components built with Radix UI and Tailwind CSS.",
   mainNav: [
